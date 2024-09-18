@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Blog-Site
-=======
 # Django Blog Website
 
 ***This project is part of a series on YouTube that teaches how to build a blog  website with Django.***
@@ -82,4 +79,3 @@ But you will find no content. Now login to the the admin dashboard using the use
 So login to the admin panel using ***localhost:8000/admin/*** and you will find all of the models. Create some categories first that is needed to create blogs.
 Now you are ready to go to use the app.
 
->>>>>>> developer
