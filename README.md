@@ -1,9 +1,5 @@
 # Django Blog Website
 
-***This project is part of a series on YouTube that teaches how to build a blog  website with Django.***
-
-[Watch on Youtube](https://www.youtube.com/watch?v=WpyXXBTcERc&list=PLoomN1iY7V9neojqrkqPVvE0GdmfOTcht)
-
 Project Summary and Features
 ================
 
@@ -27,8 +23,7 @@ Usage
 
 First clone this repo and go to the project root.
 
-    $ git clone https://github.com/nabilmoiun/Blog-Website-Django-Tutorials-Youtube.git
-    $ cd Blog-Website-Django-Tutorials-Youtube
+    $ https://github.com/Shivam3509/Blog-Site.git
 
 I would recommend to work on a virtual environment. I have used ***virtualenv*** package to create a virtual environment you may wanna use other package. So install this as well if you already haven't.
 
